@@ -4,6 +4,8 @@ An Ruboty Handler + Actions to kick and invite bot to Slack Channel.
 
 [Ruboty](https://github.com/r7kamura/ruboty) is Chat bot framework. Ruby + Bot = Ruboty
 
+[![Gem Version](https://badge.fury.io/rb/ruboty-reinvite.svg)](https://badge.fury.io/rb/ruboty-reinvite)
+
 ## Installation
 
 Add this line to your application's Gemfile:
