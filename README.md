@@ -1,6 +1,6 @@
 # Ruboty::Reinvite
 
-An Ruboty Handler + Actions to kick and invite bot to Slack Channel.
+A Ruboty Handler + Actions to kick and invite bot to Slack Channel.
 
 [Ruboty](https://github.com/r7kamura/ruboty) is Chat bot framework. Ruby + Bot = Ruboty
 
